@@ -13,7 +13,7 @@
     - List
 
 - Reseller:
-    -Create
+    - Create
 
 - Cashback
     - Consumes an external API in AWS that calculates the cashback's value based on purchase's value    
